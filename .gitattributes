@@ -1,2 +1,8 @@
 * text=auto
-*.{ts, tsx, css, scss, sass, js, jsx} eol=lf
+*.ts eol=lf
+*.tsx eol=lf
+*.css eol=lf
+*.scss eol=lf
+*.sass eol=lf
+*.js eol=lf
+*.jsx eol=lf
