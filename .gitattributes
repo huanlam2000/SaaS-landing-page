@@ -1,2 +1,2 @@
 * text=auto
-*.{ts, tsx, css, scss, sass, js, jsx} eol=lf
+*.{ts, tsx, css, scss, sass, js, jsx} eol=CRLF
