@@ -32,7 +32,7 @@ export const CallToAction = () => {
             src={starImage.src}
             alt="Star Image"
             width={360}
-            className="absolute -left-[350px] -top-[137px]"
+            className="absolute -left-[350px] -top-[137px] hidden md:block"
             style={{
               translateY,
             }}
@@ -42,7 +42,7 @@ export const CallToAction = () => {
             src={spring.src}
             alt="Spring Image"
             width={360}
-            className="absolute -right-[331px] -top-[19px]"
+            className="absolute -right-[331px] -top-[19px] hidden md:block"
             style={{
               translateY,
             }}
